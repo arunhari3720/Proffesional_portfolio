@@ -55,9 +55,9 @@ const Hero = () => {
 
             {/* Social icons */}
             <motion.div initial={{ opacity: 0 }} animate={inView ? { opacity: 1 } : {}} transition={{ delay: 0.5 }} className="flex gap-4 justify-center lg:justify-start pt-2">
-              <a href="#" className="text-gray-500 hover:text-primary-600 transition-colors"><Github size={24} /></a>
-              <a href="#" className="text-gray-500 hover:text-primary-600 transition-colors"><Linkedin size={24} /></a>
-              <a href="#" className="text-gray-500 hover:text-primary-600 transition-colors"><Mail size={24} /></a>
+              <a href="https://github.com/arunhari3720" className="text-gray-500 hover:text-primary-600 transition-colors"><Github size={24} /></a>
+              <a href="https://www.linkedin.com/in/arun-hariharan-2226b5211/" className="text-gray-500 hover:text-primary-600 transition-colors"><Linkedin size={24} /></a>
+              <a href="mailto:arungobi307@gmail.com" className="text-gray-500 hover:text-primary-600 transition-colors"><Mail size={24} /></a>
             </motion.div>
 
             {/* Stats */}

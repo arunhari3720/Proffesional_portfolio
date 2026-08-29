@@ -52,21 +52,21 @@ const About = () => {
                   sequence={[
                     `const developer = {
 
-  role: "Full Stack Developer",
+role: "Full Stack Developer",
 
-  experience: "1+ Year",
+experience: "1+ Year",
 
-  education: "B.E. CSE",
+education: "M.sc Computer Science",
 
-  location: "India",
+location: "India",
 
-  focus: "MERN Stack",
+focus: "MERN Stack",
 
-  status: "Available for Work"
+status: "Available for Work"
 }
 
 export default developer;`,
-                    500,
+500,
                   ]}
                   wrapper="pre"
                   speed={70}
@@ -103,7 +103,7 @@ export default developer;`,
               </div>
               <div className="bg-gray-50 p-4 rounded-2xl">
                 <GraduationCap className="text-primary-600 mb-2" size={20} />
-                <span className="block font-semibold">B.E. CSE</span>
+                <span className="block font-semibold">M.sc CS</span>
                 <span className="text-sm text-gray-500">Education</span>
               </div>
             </div>

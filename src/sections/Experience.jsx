@@ -5,8 +5,8 @@ import { useInView } from 'react-intersection-observer';
 import { Briefcase } from 'lucide-react';
 
 const experiences = [
-  { company: 'TechSolutions Inc.', role: 'Full Stack Developer', duration: '2024 - Present', desc: 'Building enterprise CRM and HR platforms using MERN stack, leading frontend architecture.' },
-  { company: 'WebCraft Studio', role: 'React Developer (Intern)', duration: '2023 - 2024', desc: 'Developed responsive UIs with React & Tailwind, integrated REST APIs and JWT auth.' },
+  { company: 'Hurryep Technologies', role: 'Full Stack Developer', duration: '2026 - Present', desc: 'Building enterprise CRM and HR platforms using MERN stack, leading frontend architecture.' },
+  { company: 'Freelance Developer', role: 'Mern stack devloper', duration: '2023 - 2026', desc: 'Developed responsive UIs with React & Tailwind, integrated REST APIs and JWT auth.' },
 ];
 
 const Experience = () => {

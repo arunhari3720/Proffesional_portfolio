@@ -36,7 +36,7 @@ const Footer = () => {
             {/* Social */}
             <div className="flex gap-4 mt-8">
               <a
-                href="https://github.com/"
+                href="https://github.com/arunhari3720"
                 target="_blank"
                 rel="noreferrer"
                 className="w-11 h-11 rounded-full bg-white/10 border border-white/20 flex items-center justify-center hover:bg-cyan-400 hover:text-slate-900 transition-all duration-300"
@@ -45,7 +45,7 @@ const Footer = () => {
               </a>
 
               <a
-                href="https://linkedin.com/"
+                href="https://www.linkedin.com/in/arun-hariharan-2226b5211/"
                 target="_blank"
                 rel="noreferrer"
                 className="w-11 h-11 rounded-full bg-white/10 border border-white/20 flex items-center justify-center hover:bg-cyan-400 hover:text-slate-900 transition-all duration-300"
@@ -106,12 +106,12 @@ const Footer = () => {
 
               <div className="flex items-center gap-3">
                 <Mail className="text-cyan-300" size={18} />
-                <span>yourmail@gmail.com</span>
+                <span>arungobi307@gmail.com</span>
               </div>
 
               <div className="flex items-center gap-3">
                 <Phone className="text-cyan-300" size={18} />
-                <span>+91 XXXXX XXXXX</span>
+                <span>7092532613</span>
               </div>
 
               <div className="mt-6 rounded-2xl bg-white/10 border border-white/10 p-5 backdrop-blur-md">
